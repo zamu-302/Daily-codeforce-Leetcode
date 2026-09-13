@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
