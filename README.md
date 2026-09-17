@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0567-permutation-in-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0003-longest-substring-without-repeating-characters](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0567-permutation-in-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
