@@ -113,4 +113,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
