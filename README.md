@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0739-daily-temperatures](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0883-car-fleet) |
+| [4299-concatenate-array-with-reverse](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/4299-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0190-reverse-bits](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0191-number-of-1-bits) |
+## Simulation
+|  |
+| ------- |
+| [4299-concatenate-array-with-reverse](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/4299-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
