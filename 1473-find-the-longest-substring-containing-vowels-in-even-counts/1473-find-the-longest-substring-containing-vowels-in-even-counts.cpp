@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int findTheLongestSubstring(string s) {
+    constexpr int findTheLongestSubstring(string s)noexcept  {
         std::unordered_map<uint32_t,int>seen;
         std::unordered_map<char,int> vowel_map{
             {'a',1<<0},{'e',1<<1},{'i',1<<2},{'o',1<<3},{'u',1<<4}
@@ -10,7 +10,7 @@ public:
         int longest=0;
         for(int i=0;i<s.length();i++){
             mask^=vowel_map[s[i]];
-            if(seen.count(mask)){
+            if (seen.contains(mask)){
                 longest=std::max(longest,i-seen[mask]);
             }
             else{
