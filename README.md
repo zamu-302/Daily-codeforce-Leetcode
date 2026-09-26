@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0238-product-of-array-except-self](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0525-contiguous-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0525-contiguous-array](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 ## Matrix
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0242-valid-anagram](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0567-permutation-in-string) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0190-reverse-bits](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0191-number-of-1-bits) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Simulation
 |  |
 | ------- |
