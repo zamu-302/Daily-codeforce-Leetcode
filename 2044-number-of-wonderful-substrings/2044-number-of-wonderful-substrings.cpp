@@ -1,6 +1,6 @@
 class Solution {
 public:
-    long long wonderfulSubstrings(string word) {
+    constexpr long long wonderfulSubstrings(string word)noexcept {
         std::unordered_map<uint64_t,int>seen;
         std::unordered_map<char,uint64_t> freq{
             {'a',1<<1},
