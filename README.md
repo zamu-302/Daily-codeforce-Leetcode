@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0792-binary-search](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0883-car-fleet) |
 | [0966-binary-subarrays-with-sum](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1435-xor-queries-of-a-subarray](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1694-make-sum-divisible-by-p](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [4299-concatenate-array-with-reverse](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/4299-concatenate-array-with-reverse) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0238-product-of-array-except-self](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0525-contiguous-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1435-xor-queries-of-a-subarray](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1694-make-sum-divisible-by-p](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0190-reverse-bits](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0191-number-of-1-bits) |
+| [1435-xor-queries-of-a-subarray](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2044-number-of-wonderful-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2044-number-of-wonderful-substrings) |
