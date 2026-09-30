@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0792-binary-search](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0883-car-fleet) |
 | [0966-binary-subarrays-with-sum](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1694-make-sum-divisible-by-p](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [4299-concatenate-array-with-reverse](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/4299-concatenate-array-with-reverse) |
 ## Prefix Sum
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0525-contiguous-array](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0525-contiguous-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1694-make-sum-divisible-by-p](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2044-number-of-wonderful-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 ## Hash Table
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0567-permutation-in-string](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1694-make-sum-divisible-by-p](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2044-number-of-wonderful-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 ## Matrix
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0190-reverse-bits](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0191-number-of-1-bits) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2044-number-of-wonderful-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 ## Simulation
 |  |
