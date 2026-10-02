@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1435-xor-queries-of-a-subarray](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1694-make-sum-divisible-by-p](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [4299-concatenate-array-with-reverse](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/4299-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1694-make-sum-divisible-by-p](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2044-number-of-wonderful-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 ## Hash Table
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0036-valid-sudoku](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 ## Union-Find
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0015-3sum](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0242-valid-anagram) |
 | [0883-car-fleet](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0883-car-fleet) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 ## Greedy
 |  |
 | ------- |
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0190-reverse-bits](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0191-number-of-1-bits) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -155,6 +160,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1435-xor-queries-of-a-subarray](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2044-number-of-wonderful-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 ## Simulation
 |  |
@@ -168,4 +174,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+## Quickselect
+|  |
+| ------- |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 <!---LeetCode Topics End-->
