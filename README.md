@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0966-binary-subarrays-with-sum](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1028-interval-list-intersections](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1028-interval-list-intersections) |
+| [1222-remove-covered-intervals](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1435-xor-queries-of-a-subarray](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1694-make-sum-divisible-by-p](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0015-3sum](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0242-valid-anagram) |
 | [0883-car-fleet](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0883-car-fleet) |
+| [1222-remove-covered-intervals](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 ## Greedy
 |  |
