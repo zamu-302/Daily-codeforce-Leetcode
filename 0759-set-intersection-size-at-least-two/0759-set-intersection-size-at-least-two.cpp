@@ -6,6 +6,10 @@ public:
      for(const auto& interval:intervals){
         int s=interval[0];
         int e=interval[1];
+        if(a>=s){
+            continue;
+        }
+
         if(s>b){
             ans+=2;
             a=e-1;
