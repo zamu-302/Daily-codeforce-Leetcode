@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1983-maximum-population-year](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1983-maximum-population-year) |
 | [2055-describe-the-painting](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2055-describe-the-painting) |
+| [2165-plates-between-candles](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2165-plates-between-candles) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3034-points-that-intersect-with-cars](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [4299-concatenate-array-with-reverse](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/4299-concatenate-array-with-reverse) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1983-maximum-population-year](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1983-maximum-population-year) |
 | [2044-number-of-wonderful-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2055-describe-the-painting](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2055-describe-the-painting) |
+| [2165-plates-between-candles](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2165-plates-between-candles) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3034-points-that-intersect-with-cars](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 ## Hash Table
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0567-permutation-in-string](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0567-permutation-in-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2044-number-of-wonderful-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2044-number-of-wonderful-substrings) |
+| [2165-plates-between-candles](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2165-plates-between-candles) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0792-binary-search](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0792-binary-search) |
+| [2165-plates-between-candles](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2165-plates-between-candles) |
 ## Sorting
 |  |
 | ------- |
