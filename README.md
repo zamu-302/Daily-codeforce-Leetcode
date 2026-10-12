@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2055-describe-the-painting](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2055-describe-the-painting) |
 | [2165-plates-between-candles](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2165-plates-between-candles) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2721-sum-of-distances](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2721-sum-of-distances) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3034-points-that-intersect-with-cars](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [4299-concatenate-array-with-reverse](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/4299-concatenate-array-with-reverse) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2055-describe-the-painting](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2055-describe-the-painting) |
 | [2165-plates-between-candles](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2165-plates-between-candles) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2721-sum-of-distances](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2721-sum-of-distances) |
 | [3034-points-that-intersect-with-cars](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 ## Hash Table
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1694-make-sum-divisible-by-p](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2044-number-of-wonderful-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2055-describe-the-painting](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2055-describe-the-painting) |
+| [2721-sum-of-distances](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2721-sum-of-distances) |
 | [3034-points-that-intersect-with-cars](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 ## Matrix
 |  |
