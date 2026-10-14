@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2721-sum-of-distances](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2721-sum-of-distances) |
+| [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3034-points-that-intersect-with-cars](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [4299-concatenate-array-with-reverse](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/4299-concatenate-array-with-reverse) |
