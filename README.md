@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0011-container-with-most-water](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0086-partition-list](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0567-permutation-in-string) |
@@ -247,5 +248,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
