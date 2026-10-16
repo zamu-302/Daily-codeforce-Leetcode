@@ -10,25 +10,38 @@
  */
 class Solution {
 public:
-    ListNode* swapNodes(ListNode* head, int k) {
-        std::vector<int> arr;
-        while(head){
-            arr.emplace_back(head->val);
-            head=head->next;
+    constexpr ListNode* swapNodes(ListNode* head, int k)noexcept {
+        if(head==nullptr || head->next==nullptr){
+            return head;
         }
-        int temp=arr[k-1];
-        arr[k-1]=arr[arr.size()-k];
-        arr[arr.size()-k]=temp;
-        ListNode *head2=new ListNode();
-        ListNode *dummy=head2;
-        for(int i=0;i<arr.size();i++){
-            dummy->val=arr[i];
-            if(i!=arr.size()-1){
-                dummy->next=new ListNode();
-                dummy=dummy->next;
+        ListNode* front=head;
+        ListNode* prev=head;
+        ListNode* temp=head;
+        int n=0;
+        while(temp){
+            n++;
+            temp=temp->next;
+        }
+        int count=0;
+        temp=head;
+        int last=n-k+1;
+        if(last==k){
+            return head;
+        }
+        while(count!=std::max(last,k)&& temp){
+            count++;
+            if(count==k){
+                front=temp;
             }
+            else if(count==last){
+                prev=temp;
+            }
+            temp=temp->next;
         }
-        return head2;
-        
+        std::swap(front->val,prev->val);
+        return head;
+
+
+                
     }
 };
