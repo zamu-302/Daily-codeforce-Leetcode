@@ -253,4 +253,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0092-reverse-linked-list-ii](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1765-merge-in-between-linked-lists) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
