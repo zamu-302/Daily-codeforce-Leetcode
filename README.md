@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0036-valid-sudoku](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -238,10 +239,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0051-n-queens) |
 ## Algorithm X
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
