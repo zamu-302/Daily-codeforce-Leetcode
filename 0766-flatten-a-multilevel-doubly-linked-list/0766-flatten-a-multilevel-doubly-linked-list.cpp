@@ -11,12 +11,16 @@ public:
 
 class Solution {
 public:
-    std::vector<int> ans;
+    Node *head2=new Node();
+    Node* tail=head2;
     void dfs(Node* node){
         if(!node){
             return;
         }
-        ans.emplace_back(node->val);
+        Node* newNode = new Node(node->val);
+        tail->next = newNode;
+        newNode->prev = tail;
+        tail = newNode;
         dfs(node->child);
         dfs(node->next);
         
@@ -27,17 +31,8 @@ public:
             return head;
         }
         dfs(head);
-        Node* head2=new Node(ans[0]);
-        Node *tail=head2;
-        for (int i = 1; i < ans.size(); ++i) {
-        Node* newNode = new Node(ans[i]);
-        
-      
-        tail->next = newNode;
-        newNode->prev = tail;
-        tail = newNode;
-        
-    }
-    return head2;
+        Node *res=head2->next;
+        res->prev=nullptr;
+        return res;
     }
 };
