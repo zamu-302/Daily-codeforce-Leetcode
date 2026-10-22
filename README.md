@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0036-valid-sudoku](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0155-min-stack) |
 ## Math
 |  |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0086-partition-list](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0146-lru-cache) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -275,5 +278,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
