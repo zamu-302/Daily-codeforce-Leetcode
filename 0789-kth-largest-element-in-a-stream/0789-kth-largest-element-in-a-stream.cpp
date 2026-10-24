@@ -10,7 +10,7 @@ public:
     
     constexpr int add(int val) noexcept{
         if (pq.size()<k || pq.top()<val){
-            pq.push(val);
+            pq.emplace(val);
             if(pq.size()>k){
                 pq.pop();
             }
