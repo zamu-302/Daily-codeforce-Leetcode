@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0525-contiguous-array](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0525-contiguous-array) |
 | [0739-daily-temperatures](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0739-daily-temperatures) |
 | [0759-set-intersection-size-at-least-two](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0037-sudoku-solver](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 ## Union-Find
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0074-search-a-2d-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0792-binary-search](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0792-binary-search) |
 | [2165-plates-between-candles](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2165-plates-between-candles) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0015-3sum](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0242-valid-anagram) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0759-set-intersection-size-at-least-two](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0883-car-fleet](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0883-car-fleet) |
 | [1222-remove-covered-intervals](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1222-remove-covered-intervals) |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
