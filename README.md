@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1962-single-threaded-cpu](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1962-single-threaded-cpu) |
 | [1983-maximum-population-year](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2012-process-tasks-using-servers](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2012-process-tasks-using-servers) |
 | [2055-describe-the-painting](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2055-describe-the-painting) |
 | [2165-plates-between-candles](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2165-plates-between-candles) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1917-maximum-average-pass-ratio](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-single-threaded-cpu](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1962-single-threaded-cpu) |
+| [2012-process-tasks-using-servers](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2012-process-tasks-using-servers) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Quickselect
 |  |
