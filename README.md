@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1072-next-greater-node-in-linked-list](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1222-remove-covered-intervals](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1435-xor-queries-of-a-subarray](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1499-maximum-performance-of-a-team](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1499-maximum-performance-of-a-team) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1694-make-sum-divisible-by-p](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0883-car-fleet](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0883-car-fleet) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1222-remove-covered-intervals](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1222-remove-covered-intervals) |
+| [1499-maximum-performance-of-a-team](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1499-maximum-performance-of-a-team) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1962-single-threaded-cpu](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2055-describe-the-painting](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2055-describe-the-painting) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0011-container-with-most-water](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0011-container-with-most-water) |
 | [0759-set-intersection-size-at-least-two](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [1499-maximum-performance-of-a-team](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1499-maximum-performance-of-a-team) |
 | [1917-maximum-average-pass-ratio](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Dynamic Programming
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [1499-maximum-performance-of-a-team](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1499-maximum-performance-of-a-team) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1917-maximum-average-pass-ratio](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-single-threaded-cpu](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1962-single-threaded-cpu) |
