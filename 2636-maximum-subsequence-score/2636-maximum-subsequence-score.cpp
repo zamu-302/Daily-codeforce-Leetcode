@@ -1,13 +1,13 @@
 class Solution {
 public:
-    long long maxScore(vector<int>& nums1, vector<int>& nums2, int k) {
+    constexpr long long maxScore(vector<int>& nums1, vector<int>& nums2, int k)noexcept  {
         std::vector<std::array<int,3>> nums;
         
         std::priority_queue<int,std::vector<int>,greater<int>>pq;
         int n=nums1.size();
         nums.reserve(n);
         for(int i=0;i<n;i++){
-            nums.push_back({{nums2[i],nums1[i],i}});
+            nums.emplace_back(std::array<int, 3>{nums2[i],nums1[i],i});
         }
         long long ans=std::numeric_limits<long long>::min();
         long long sum=0;
