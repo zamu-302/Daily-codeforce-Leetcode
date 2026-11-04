@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2721-sum-of-distances](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2721-sum-of-distances) |
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [3034-points-that-intersect-with-cars](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [4299-concatenate-array-with-reverse](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/4299-concatenate-array-with-reverse) |
 ## Prefix Sum
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2044-number-of-wonderful-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2055-describe-the-painting](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2055-describe-the-painting) |
 | [2721-sum-of-distances](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2721-sum-of-distances) |
+| [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [3034-points-that-intersect-with-cars](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 ## Matrix
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2636-maximum-subsequence-score](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1917-maximum-average-pass-ratio](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2636-maximum-subsequence-score](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2636-maximum-subsequence-score) |
+| [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0883-car-fleet](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0883-car-fleet) |
 | [1072-next-greater-node-in-linked-list](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -274,6 +279,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2636-maximum-subsequence-score) |
+| [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 ## Quickselect
 |  |
 | ------- |
