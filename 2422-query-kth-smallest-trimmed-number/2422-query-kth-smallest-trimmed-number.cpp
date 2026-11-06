@@ -5,14 +5,15 @@ public:
         int q=queries.size();
         int n=nums.size();
         for(int i=0;i<q;i++){
-            std::priority_queue<std::pair<std::string,int>,std::vector<std::pair<std::string,int>>,greater<std::pair<std::string,int>>> pq;
+            std::vector<std::pair<std::string,int>> pq;
+            pq.reserve(n);
             for(int j=0;j<n;j++){
-                pq.push({nums[j].substr(nums[j].size()-queries[i][1]),j});
+                pq.push_back({nums[j].substr(nums[j].size()-queries[i][1]),j});
             }
-            for(int j=0;j<queries[i][0]-1;j++){
-                pq.pop();
-            }
-            ans.emplace_back(pq.top().second);
+            std::stable_sort(pq.begin(), pq.end(), [](const auto& a, const auto& a_pair) {
+                return a.first < a_pair.first;
+            });
+            ans.emplace_back(pq[queries[i][0]-1].second);
 
         }
         return ans;
