@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2012-process-tasks-using-servers](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2012-process-tasks-using-servers) |
 | [2055-describe-the-painting](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2055-describe-the-painting) |
 | [2165-plates-between-candles](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2165-plates-between-candles) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2603-reward-top-k-students](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2603-reward-top-k-students) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2044-number-of-wonderful-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2165-plates-between-candles](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2165-plates-between-candles) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2603-reward-top-k-students](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2603-reward-top-k-students) |
 ## Binary Search
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1962-single-threaded-cpu](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2055-describe-the-painting](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2055-describe-the-painting) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2603-reward-top-k-students](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2603-reward-top-k-students) |
 | [2636-maximum-subsequence-score](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0190-reverse-bits](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0191-number-of-1-bits) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1917-maximum-average-pass-ratio](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-single-threaded-cpu](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2012-process-tasks-using-servers](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2012-process-tasks-using-servers) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2603-reward-top-k-students](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2603-reward-top-k-students) |
@@ -289,6 +294,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Counting
 |  |
 | ------- |
@@ -351,4 +357,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Radix Sort
+|  |
+| ------- |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 <!---LeetCode Topics End-->
