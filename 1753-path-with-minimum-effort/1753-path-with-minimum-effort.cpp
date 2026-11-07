@@ -4,7 +4,7 @@ public:
     int n;
     int m;
     vector<vector<bool>> visited;  
-    bool dfs(vector<vector<int>>& heights,int i,int j,int prev,int k){
+    constexpr bool dfs(vector<vector<int>>& heights,int i,int j,int prev,int k)noexcept{
         if(i<0||i>=n||j<0||j>=m){
             return false;
         }
@@ -25,7 +25,7 @@ public:
        
 
     }
-    int minimumEffortPath(vector<vector<int>>& heights) {
+    constexpr int minimumEffortPath(vector<vector<int>>& heights)noexcept {
         n=heights.size();
         m=heights[0].size();
         int l=0;
