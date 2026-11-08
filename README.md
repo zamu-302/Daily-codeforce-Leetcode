@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0480-sliding-window-median](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0480-sliding-window-median) |
 | [0525-contiguous-array](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0525-contiguous-array) |
 | [0630-course-schedule-iii](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0630-course-schedule-iii) |
 | [0739-daily-temperatures](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0739-daily-temperatures) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0242-valid-anagram](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0460-lfu-cache) |
+| [0480-sliding-window-median](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0480-sliding-window-median) |
 | [0525-contiguous-array](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0480-sliding-window-median](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 ## Bracket Sequences
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0480-sliding-window-median](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0480-sliding-window-median) |
 | [0630-course-schedule-iii](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0630-course-schedule-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -375,4 +379,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1753-path-with-minimum-effort](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1753-path-with-minimum-effort) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
