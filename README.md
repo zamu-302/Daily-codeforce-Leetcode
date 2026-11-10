@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2012-process-tasks-using-servers](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2012-process-tasks-using-servers) |
 | [2055-describe-the-painting](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2055-describe-the-painting) |
 | [2165-plates-between-candles](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2165-plates-between-candles) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0794-swim-in-rising-water](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Union-Find
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1917-maximum-average-pass-ratio](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-single-threaded-cpu](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2012-process-tasks-using-servers](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2012-process-tasks-using-servers) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -382,11 +385,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Treap
 |  |
 | ------- |
@@ -395,4 +400,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0794-swim-in-rising-water) |
+## Graph Theory
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## 0-1 BFS
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
