@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0155-min-stack](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0883-car-fleet) |
+| [0937-online-stock-span](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0042-trapping-rain-water](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0883-car-fleet) |
+| [0937-online-stock-span](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Sliding Window
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0155-min-stack](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0155-min-stack) |
 | [0460-lfu-cache](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0937-online-stock-span) |
 ## Math
 |  |
 | ------- |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0937-online-stock-span) |
 ## Radix Sort
 |  |
 | ------- |
