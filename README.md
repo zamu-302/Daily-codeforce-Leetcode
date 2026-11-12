@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1016-subarray-sums-divisible-by-k](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1028-interval-list-intersections](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1028-interval-list-intersections) |
 | [1072-next-greater-node-in-linked-list](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1222-remove-covered-intervals](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1435-xor-queries-of-a-subarray](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1499-maximum-performance-of-a-team](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1499-maximum-performance-of-a-team) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0794-swim-in-rising-water](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0794-swim-in-rising-water) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0794-swim-in-rising-water) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Dijkstra's Algorithm
