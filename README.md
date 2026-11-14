@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0125-valid-palindrome](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0567-permutation-in-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0402-remove-k-digits) |
 | [0630-course-schedule-iii](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0630-course-schedule-iii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0042-trapping-rain-water](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0937-online-stock-span) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0937-online-stock-span) |
