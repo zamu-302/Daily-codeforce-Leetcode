@@ -6,6 +6,7 @@ public:
         std::vector<int>left(n,-1);
         std::vector<int>right(n,n);
         std::vector<int> stk;
+        std::vector<int> stk2;
         for(int i=0;i<n;i++){
             while(!stk.empty()&& strength[stk.back()]>=strength[i]){
                 stk.pop_back();
@@ -15,24 +16,23 @@ public:
                 }
             stk.emplace_back(i);
         }
-        stk.clear();
         for(int i=n-1;i>=0;i--){
-             while(!stk.empty()&& strength[stk.back()]>strength[i]){
-                stk.pop_back();
+             while(!stk2.empty()&& strength[stk2.back()]>strength[i]){
+                stk2.pop_back();
             }
-            if(!stk.empty()){
-                right[i]=stk.back();
+            if(!stk2.empty()){
+                right[i]=stk2.back();
                 }
-            stk.emplace_back(i);
+            stk2.emplace_back(i);
         }
         std::vector<long long>prefix(n+1,0);
         std::vector<long long> ss(n+2,0);
-        for(int i=0;i<n;i++){
-            prefix[i+1]=(prefix[i]+strength[i])% MOD;
-        }
-        for(int i=0;i<=n;i++){
-            ss[i+1]=(ss[i]+prefix[i])%MOD;
-        }
+        for (int i = 0; i <= n; i++) {
+            if (i < n) {
+                prefix[i + 1] = (prefix[i] + strength[i]) % MOD;
+            }
+            ss[i + 1] = (ss[i] + prefix[i]) % MOD;
+        }           
         long long total_sum=0;
         for(int i=0;i<n;i++){
         long long L = left[i];
