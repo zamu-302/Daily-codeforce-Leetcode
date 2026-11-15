@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2012-process-tasks-using-servers](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2012-process-tasks-using-servers) |
 | [2055-describe-the-painting](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2055-describe-the-painting) |
 | [2165-plates-between-candles](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2165-plates-between-candles) |
+| [2368-sum-of-total-strength-of-wizards](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2044-number-of-wonderful-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2055-describe-the-painting](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2055-describe-the-painting) |
 | [2165-plates-between-candles](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2165-plates-between-candles) |
+| [2368-sum-of-total-strength-of-wizards](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2721-sum-of-distances](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2721-sum-of-distances) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1072-next-greater-node-in-linked-list](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2368-sum-of-total-strength-of-wizards](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 ## Monotonic Stack
 |  |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0937-online-stock-span](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
+| [2368-sum-of-total-strength-of-wizards](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2368-sum-of-total-strength-of-wizards) |
 ## Sliding Window
 |  |
 | ------- |
