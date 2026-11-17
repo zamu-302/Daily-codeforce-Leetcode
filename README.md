@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2549-next-greater-element-iv](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2549-next-greater-element-iv) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2603-reward-top-k-students](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2603-reward-top-k-students) |
 | [2636-maximum-subsequence-score](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0794-swim-in-rising-water](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2165-plates-between-candles](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2165-plates-between-candles) |
+| [2549-next-greater-element-iv](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2549-next-greater-element-iv) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 ## Sorting
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2055-describe-the-painting](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2055-describe-the-painting) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2549-next-greater-element-iv](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2549-next-greater-element-iv) |
 | [2603-reward-top-k-students](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2603-reward-top-k-students) |
 | [2636-maximum-subsequence-score](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1792-find-the-most-competitive-subsequence](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2368-sum-of-total-strength-of-wizards) |
+| [2549-next-greater-element-iv](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2549-next-greater-element-iv) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 ## Monotonic Stack
 |  |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1072-next-greater-node-in-linked-list](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2368-sum-of-total-strength-of-wizards) |
+| [2549-next-greater-element-iv](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2549-next-greater-element-iv) |
 ## Sliding Window
 |  |
 | ------- |
@@ -324,6 +329,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2549-next-greater-element-iv](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2549-next-greater-element-iv) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2603-reward-top-k-students](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2603-reward-top-k-students) |
 | [2636-maximum-subsequence-score](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2636-maximum-subsequence-score) |
