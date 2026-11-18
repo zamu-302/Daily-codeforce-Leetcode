@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0480-sliding-window-median](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0480-sliding-window-median) |
+| [0491-non-decreasing-subsequences](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0525-contiguous-array](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0525-contiguous-array) |
 | [0630-course-schedule-iii](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0630-course-schedule-iii) |
 | [0739-daily-temperatures](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0739-daily-temperatures) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0424-longest-repeating-character-replacement](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0480-sliding-window-median) |
+| [0491-non-decreasing-subsequences](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0525-contiguous-array](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0190-reverse-bits](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0191-number-of-1-bits) |
+| [0491-non-decreasing-subsequences](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1435-xor-queries-of-a-subarray](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0037-sudoku-solver](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0051-n-queens) |
+| [0491-non-decreasing-subsequences](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0491-non-decreasing-subsequences) |
 ## Algorithm X
 |  |
 | ------- |
