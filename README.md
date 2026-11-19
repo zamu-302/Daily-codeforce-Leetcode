@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1694-make-sum-divisible-by-p](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2044-number-of-wonderful-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2055-describe-the-painting](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2055-describe-the-painting) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0567-permutation-in-string](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0567-permutation-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2044-number-of-wonderful-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2165-plates-between-candles](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2165-plates-between-candles) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0051-n-queens](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0051-n-queens) |
 | [0491-non-decreasing-subsequences](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1160-letter-tile-possibilities](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Algorithm X
 |  |
 | ------- |
