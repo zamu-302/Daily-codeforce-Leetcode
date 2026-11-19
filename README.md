@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0491-non-decreasing-subsequences](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1160-letter-tile-possibilities](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Algorithm X
 |  |
 | ------- |
