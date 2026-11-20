@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0074-search-a-2d-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0036-valid-sudoku](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0130-surrounded-regions) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0794-swim-in-rising-water](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0794-swim-in-rising-water) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0130-surrounded-regions) |
 | [0794-swim-in-rising-water](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Two Pointers
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0130-surrounded-regions) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0794-swim-in-rising-water](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0130-surrounded-regions) |
 | [0794-swim-in-rising-water](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1753-path-with-minimum-effort) |
