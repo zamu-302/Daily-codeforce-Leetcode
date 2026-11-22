@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2044-number-of-wonderful-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2165-plates-between-candles](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2165-plates-between-candles) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2603-reward-top-k-students](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2603-reward-top-k-students) |
 ## Binary Search
