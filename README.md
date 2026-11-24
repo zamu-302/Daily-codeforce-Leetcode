@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0943-sum-of-subarray-minimums](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1022-unique-paths-iii](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1022-unique-paths-iii) |
 | [1028-interval-list-intersections](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1028-interval-list-intersections) |
 | [1072-next-greater-node-in-linked-list](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0794-swim-in-rising-water) |
+| [1022-unique-paths-iii](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1022-unique-paths-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0190-reverse-bits](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0191-number-of-1-bits) |
 | [0491-non-decreasing-subsequences](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [1022-unique-paths-iii](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1022-unique-paths-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0037-sudoku-solver](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0051-n-queens) |
 | [0491-non-decreasing-subsequences](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [1022-unique-paths-iii](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -464,4 +468,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [1022-unique-paths-iii](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1022-unique-paths-iii) |
 <!---LeetCode Topics End-->
