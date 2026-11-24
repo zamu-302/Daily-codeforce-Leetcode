@@ -7,20 +7,22 @@ public:
     constexpr bool inbound(int i,int j){
         return i>=0&&i<n&&j>=0&&j<m;
     }
-    void dfs(std::vector<std::vector<int>>&grid,int i,int j,std::vector<std::vector<bool>>& visited){
+    constexpr void dfs(std::vector<std::vector<int>>&grid,int i,int j,std::vector<std::vector<bool>>& visited){
         visited[i][j]=true;
         int dx[]={1,-1,0,0};
         int dy[]={0,0,1,-1};
 
 
         for(int k=0;k<4;k++){
-        if(!inbound(i+dx[k],j+dy[k])||grid[i+dx[k]][j+dy[k]]<grid[i][j]||visited[i+dx[k]][j+dy[k]]){
+            int nx=i+dx[k];
+            int ny=j+dy[k];
+        if(!inbound(nx,ny)||grid[nx][ny]<grid[i][j]||visited[nx][ny]){
             continue;
         }
-            dfs(grid,i+dx[k],j+dy[k],visited);
+            dfs(grid,nx,ny,visited);
         }
     }
-    vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights) {
+    constexpr vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights) {
         n=heights.size();
         m=heights[0].size();
         std::vector<std::vector<bool>> pacificVisited(n,std::vector<bool>(m,false));
