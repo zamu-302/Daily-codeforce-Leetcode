@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1072-next-greater-node-in-linked-list](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1222-remove-covered-intervals](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1222-remove-covered-intervals) |
+| [1331-path-with-maximum-gold](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1499-maximum-performance-of-a-team](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1499-maximum-performance-of-a-team) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0794-swim-in-rising-water](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1022-unique-paths-iii](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1022-unique-paths-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1331-path-with-maximum-gold](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1753-path-with-minimum-effort](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0491-non-decreasing-subsequences](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1022-unique-paths-iii](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1331-path-with-maximum-gold](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Algorithm X
