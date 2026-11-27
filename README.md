@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2368-sum-of-total-strength-of-wizards](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
+| [2482-maximum-rows-covered-by-columns](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2549-next-greater-element-iv](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2549-next-greater-element-iv) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1753-path-with-minimum-effort](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2482-maximum-rows-covered-by-columns](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 ## Union-Find
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2044-number-of-wonderful-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2044-number-of-wonderful-substrings) |
+| [2482-maximum-rows-covered-by-columns](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 ## Simulation
 |  |
 | ------- |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1331-path-with-maximum-gold](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2482-maximum-rows-covered-by-columns](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Algorithm X
 |  |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Enumeration
 |  |
 | ------- |
+| [2482-maximum-rows-covered-by-columns](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Linked List
 |  |
