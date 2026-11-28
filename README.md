@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1753-path-with-minimum-effort](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1917-maximum-average-pass-ratio](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-single-threaded-cpu](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1962-single-threaded-cpu) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0943-sum-of-subarray-minimums](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 ## Stack
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1435-xor-queries-of-a-subarray](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2044-number-of-wonderful-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1331-path-with-maximum-gold](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Algorithm X
@@ -491,4 +495,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/zamu-302/Daily-codeforce-Leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 <!---LeetCode Topics End-->
